@@ -4,7 +4,7 @@
 #define int long long 
 
 //structural node
-stu Node{
+struct Node{
 	int data;
 	stu Node* left;
 	stu Node* right;
