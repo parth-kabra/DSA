@@ -1,0 +1,17 @@
+/*
+	*IMPLEMENTAIONS*
+		INSERT AT TAIL
+			*insatTail(head, value)
+
+		INSERT AT HEAD
+			*insatHead(head, value)
+
+		DELETE AN ELEMENT
+			*deletion(head, value)
+
+		DELETE THE HEAD
+			*delHead(head)
+			
+		DISPLAY THE HEAD
+			*display(head)
+*/
