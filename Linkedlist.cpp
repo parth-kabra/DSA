@@ -1,3 +1,8 @@
+#include<bits/stdc++.h>
+#define vd void
+#define str string
+#define int long long 
+
 //structural node
 stu Node{
 	int data;
@@ -90,23 +95,4 @@ node* rev(node* head){
 	}
 	return pre;
 }
-
-/*
-	*IMPLEMENTAIONS*
-		INSERT AT TAIL
-			*insatTail(head, value)
-
-		INSERT AT HEAD
-			*insatHead(head, value)
-
-		DELETE AN ELEMENT
-			*deletion(head, value)
-
-		DELETE THE HEAD
-			*delHead(head)
-			
-		DISPLAY THE HEAD
-			*display(head)
-*/
-
 //linked list code end
